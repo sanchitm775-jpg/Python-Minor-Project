@@ -1,0 +1,66 @@
+country,region,gdp_per_capita,life_expectancy,adult_literacy,infant_mortality
+United States,North America,70000,76.4,99.0,5.4
+Canada,North America,52000,82.6,99.0,4.3
+Germany,Europe & Central Asia,51000,80.6,99.0,3.1
+France,Europe & Central Asia,43500,82.3,99.0,3.5
+United Kingdom,Europe & Central Asia,47000,80.7,99.0,3.6
+Italy,Europe & Central Asia,35500,82.9,99.2,2.6
+Spain,Europe & Central Asia,30100,83.1,98.6,2.6
+Norway,Europe & Central Asia,89000,83.2,99.0,1.7
+Switzerland,Europe & Central Asia,93500,83.9,99.0,3.0
+Poland,Europe & Central Asia,17800,75.6,99.8,3.7
+Greece,Europe & Central Asia,20200,80.1,97.9,3.5
+Russian Federation,Europe & Central Asia,12200,69.4,99.7,4.5
+Turkiye,Europe & Central Asia,9600,76.0,96.7,8.5
+Japan,East Asia & Pacific,39300,84.5,99.0,1.8
+Korea Rep.,East Asia & Pacific,34800,83.6,99.0,2.6
+Australia,East Asia & Pacific,60400,83.3,99.0,3.1
+Singapore,East Asia & Pacific,72800,83.1,97.6,1.8
+China,East Asia & Pacific,12600,78.2,97.0,5.0
+Malaysia,East Asia & Pacific,11100,75.3,95.0,6.5
+Thailand,East Asia & Pacific,7200,77.5,94.1,7.5
+Indonesia,East Asia & Pacific,4300,67.6,96.0,18.5
+Philippines,East Asia & Pacific,3550,69.3,96.3,20.0
+Vietnam,East Asia & Pacific,3700,73.6,95.8,16.0
+Cambodia,East Asia & Pacific,1600,69.6,80.5,22.0
+Myanmar,East Asia & Pacific,1200,65.6,89.1,35.0
+Brazil,Latin America & Caribbean,7500,72.8,94.0,12.5
+Mexico,Latin America & Caribbean,10000,70.2,95.2,12.0
+Argentina,Latin America & Caribbean,10600,75.4,99.0,8.0
+Chile,Latin America & Caribbean,16300,78.9,96.4,6.0
+Colombia,Latin America & Caribbean,6100,72.8,95.6,11.5
+Peru,Latin America & Caribbean,6600,72.4,94.5,12.5
+Bolivia,Latin America & Caribbean,3400,63.6,92.5,21.0
+Cuba,Latin America & Caribbean,9500,73.7,99.8,5.0
+Costa Rica,Latin America & Caribbean,12500,77.7,98.0,7.0
+Haiti,Latin America & Caribbean,1800,63.2,61.7,45.0
+Saudi Arabia,Middle East & North Africa,23500,76.9,97.6,5.5
+United Arab Emirates,Middle East & North Africa,44300,78.7,98.0,5.0
+Iran,Middle East & North Africa,4100,74.4,88.7,10.5
+Egypt,Middle East & North Africa,3700,70.2,71.2,16.5
+Morocco,Middle East & North Africa,3500,74.0,75.9,17.0
+Algeria,Middle East & North Africa,3700,76.4,81.4,20.0
+Tunisia,Middle East & North Africa,3800,73.9,82.7,14.0
+Israel,Middle East & North Africa,52000,82.5,97.8,2.7
+India,South Asia,2250,67.2,77.0,26.0
+Pakistan,South Asia,1500,66.1,59.0,55.0
+Bangladesh,South Asia,2500,72.4,74.9,24.0
+Sri Lanka,South Asia,3800,76.4,92.4,6.0
+Nepal,South Asia,1200,68.4,71.2,25.0
+Afghanistan,South Asia,370,62.0,37.0,45.0
+Nigeria,Sub-Saharan Africa,2100,52.7,62.0,70.0
+Ethiopia,Sub-Saharan Africa,940,65.0,51.8,35.0
+Kenya,Sub-Saharan Africa,2100,61.4,82.6,31.0
+Ghana,Sub-Saharan Africa,2400,63.8,79.0,33.0
+Tanzania,Sub-Saharan Africa,1100,66.2,82.0,33.0
+Uganda,Sub-Saharan Africa,880,62.7,79.0,33.0
+"Congo, Dem. Rep.",Sub-Saharan Africa,590,60.7,80.0,62.0
+Mozambique,Sub-Saharan Africa,500,59.3,63.0,55.0
+Niger,Sub-Saharan Africa,590,61.6,37.0,46.0
+Mali,Sub-Saharan Africa,910,59.3,31.0,57.0
+Chad,Sub-Saharan Africa,700,52.5,27.0,70.0
+Senegal,Sub-Saharan Africa,1600,67.9,56.0,29.0
+South Africa,Sub-Saharan Africa,7000,62.3,95.0,27.0
+Rwanda,Sub-Saharan Africa,830,66.1,75.9,27.0
+Zimbabwe,Sub-Saharan Africa,1700,59.3,89.7,40.0
+Botswana,Sub-Saharan Africa,7350,61.1,88.5,34.0

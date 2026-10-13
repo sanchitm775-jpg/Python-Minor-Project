@@ -1,0 +1,8 @@
+# Installs everything needed for ALL projects at once
+numpy>=1.23
+pandas>=2.0
+scikit-learn>=1.2
+matplotlib>=3.6
+seaborn>=0.13
+requests>=2.28
+beautifulsoup4>=4.11

@@ -1,0 +1,6 @@
+numpy>=1.23
+pandas>=2.0
+scikit-learn>=1.2
+matplotlib>=3.6
+# optional: only needed to download seaborn's 'mpg' data (the bundled mtcars fallback works without it)
+seaborn>=0.13
